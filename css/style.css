@@ -1,0 +1,129 @@
+body {
+	font: 76%/150% "Helvetica Neue", Helvetica, Verdana, sans-serif;
+}
+
+#hd {
+	height: 138px;
+}
+
+h1 {
+	font-size: 300%;
+	font-weight: bold;
+}
+
+h2 {
+	font-size: 240%;
+}
+
+h3 {
+	font-size: 150%;
+}
+
+/* cv styles */
+#cv {
+	list-style-type: disc;
+	padding-left: 24px;
+}
+
+h3.cvheader {
+	font-size: 108%;
+	font-weight: bold;
+	padding-top: 12px;
+	text-transform: uppercase;
+}
+
+.jobtitle {
+	font-weight: bold;
+	padding-top: 8px;
+}
+
+.daterange {
+	float: right;
+	font-style: italic;
+}
+
+.employer {
+	font-weight: bold;
+}
+
+/* project styles */
+
+#projects {
+	list-style-type: disc;
+	padding-left: 24px;
+	padding-top: 11px;
+}
+
+.projecthd {
+	font-size: 108%;
+	font-weight: bold;
+	padding-top: 8px;
+	padding-bottom: 8px;
+}
+
+ul.nav {
+	list-style-type: none;
+	text-align: right;
+	font-size: 180%;
+	line-height: 133%;
+    padding-top: 24px;
+}
+
+ul.cvlist li {
+	list-style-type: disc;
+	list-style-position: inside;
+	padding-left: 12px;
+	
+}
+
+.project {
+	font-style: italic;
+}
+
+li {
+	padding-bottom: 5px;
+}
+
+a {
+	text-decoration: none;
+	color: #666;
+}
+
+h1.title a {
+	color: black;
+}
+
+a:hover {
+	color: #4c5f88;
+	border-bottom: 1px dotted;	
+}
+
+.title {
+
+	padding-top: 3px;
+    text-align: right;
+}
+
+img {
+    padding-top: 18px;
+/*
+	border: black 1px solid;
+*/
+}
+
+.details {
+    text-align: right;
+    padding-top: 36px;
+    color: #666; 
+}
+
+.right {
+    text-align: right;
+}
+
+#ft {
+	padding-top: 66px;
+	text-align: right;
+	color: #666;
+}
+
